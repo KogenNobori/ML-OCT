@@ -6,4 +6,6 @@ denoising, contrast enhancement, domain adaptation
 
 ## Layer segmentation
 
+
 ## Classification
+Differentiation and staging.
