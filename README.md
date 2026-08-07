@@ -5,7 +5,7 @@ This is a project on differential diagnosis of retinal OCT currently under devel
 denoising, contrast enhancement, domain adaptation
 
 ## Layer segmentation
-
+CNN or transformer
 
 ## Classification
 Differentiation and staging.
