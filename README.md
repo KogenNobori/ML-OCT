@@ -1,13 +1,13 @@
 # ML-OCT
-This is a project on differential diagnosis of retinal OCT currently under development. The aim is to develop a machine learning model that can classify and differentiate retinal diseases, co-conditions, and staging.
+This repository contains information about the 
 
+## Datasets
+Datasets used in this project can be found [here](https://drive.google.com/drive/folders/1XAFSmCNuPptv4a1y1t7a1SNGgEduKjCq?usp=sharing).
 
 ## Layer segmentation
-U-Net layer segmentation:
+U-Net was used for the layer segmentation.
 repository:
 
-Dataset
-OCT5k
 
 ## Classification
 Dataset creation
