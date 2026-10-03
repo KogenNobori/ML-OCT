@@ -4,7 +4,8 @@ This repository shares code and data used in the project. For detailed informati
 ## Datasets
 Datasets used in this project can be found [here](https://drive.google.com/drive/folders/13wXC3LZ75CPKXMQS2ocfrertOU7PoTSQ?usp=sharing). 
 
-Dataset creation script for classification:
+The dataset creation script for classification is found in classification/ directory.
+
 
 ## Layer segmentation 
 U-Net was used for the layer segmentation. This [repository](https://github.com/KogenNobori/Pytorch-UNet) was used in training and analysis. Branches without_noise, speckle_10p_m0v0.5, speckle_10p_m0v1 were used for the three training and testing settings discussed in the report.
@@ -12,6 +13,6 @@ U-Net was used for the layer segmentation. This [repository](https://github.com/
 
 
 ## Classification
-ResNet and Swin Transformer were trained for classification. The Kaggle Notebooks used are included in this repository.
+ResNet and Swin Transformer were trained for classification. The Kaggle Notebooks used are included in classification/ directory.
 
 
