@@ -4,7 +4,11 @@ This repository shares code and data used in the project. For detailed informati
 ## Datasets
 Datasets used in this project can be found [here](https://drive.google.com/drive/folders/13wXC3LZ75CPKXMQS2ocfrertOU7PoTSQ?usp=sharing). 
 
-The dataset creation script for classification is found in classification/ directory.
+Layer segmentation task:
+OCT5k dataset was used for training the layer segmentation model. The datasets used are in oct5k_outputs/ directory in the drive. For the preparation, we used the scripts in the OCT5k dataset. The dataset can be downloaded from [the official archive](https://rdr.ucl.ac.uk/articles/dataset/OCT5k_A_dataset_of_multi-disease_and_multi-graded_annotations_for_retinal_layers/22128671/4?file=44436359).
+
+Classification task:
+The dataset creation script for classification is found in classification/ directory in the drive.
 
 
 ## Layer segmentation 
