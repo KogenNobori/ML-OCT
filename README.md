@@ -1,5 +1,6 @@
 # Building deep learning based layer segmentation and pathology classification models in retinal OCT images
-![thumbnail](images/github_thumbnail)
+![thumbnail](images/github_thumbnail.png)
+
 This repository shares code and data used in the project. For detailed information, please check the technical report. *The repository is still under development, and further information will be added.
 
 Todo:
