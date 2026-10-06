@@ -1,5 +1,5 @@
 # Building deep learning based layer segmentation and pathology classification models in retinal OCT images
-![eg of layer segmentation:original](images/ex_ori.png)![eg of layer segmentation:predicted](images/ex_pred.png)![confusion matrix(swin, normalised by rows)](images/cm_swi_row.png)
+![thumbnail](images/github_thumbnail)
 This repository shares code and data used in the project. For detailed information, please check the technical report. *The repository is still under development, and further information will be added.
 
 Todo:
