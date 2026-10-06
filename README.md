@@ -54,7 +54,7 @@ The dataset used for the classification task is placed in the zipped form as `co
 
 
 ## Layer segmentation model 
-U-Net was used for the layer segmentation. This [repository](https://github.com/KogenNobori/Pytorch-UNet) was used in training and analysis. Branches without_noise, speckle_10p_m0v0.5, speckle_10p_m0v1 were used for the three training and testing settings discussed in the report.
+U-Net was used for the layer segmentation. This [repository](https://github.com/KogenNobori/Pytorch-UNet) was used in training and analysis. Branches `without_noise`, `speckle_10p_m0v0.5`, `speckle_10p_m0v1` were used for the three training and testing settings discussed in the report.
 
 
 
