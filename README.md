@@ -53,12 +53,23 @@ oct5k_outputs
 The dataset used for the classification task is placed in the zipped form as `combined3_split_rgb_jpeg.zip` in the Drive. The dataset creation script for classification is found as `classification/dataset_creator.ipynb` in this repository.
 
 
+# Training models
+
 ## Layer segmentation model 
-U-Net was used for the layer segmentation. This [repository](https://github.com/KogenNobori/Pytorch-UNet) was used in training and analysis. Branches `without_noise`, `speckle_10p_m0v0.5`, `speckle_10p_m0v1` were used for the three training and testing settings discussed in the report. The trained models can be found [here](https://drive.google.com/drive/folders/1zEMr_7HVztm6WRKZXNdqH0mqvc9c8otY?usp=sharing).
+U-Net was used for the layer segmentation. This [repository](https://github.com/KogenNobori/Pytorch-UNet) was used in training and analysis. Branches `without_noise`, `speckle_10p_m0v0.5`, `speckle_10p_m0v1` were used for the three training and testing settings discussed in the report. 
 
 
 
 ## Classification model
-ResNet and Swin Transformer were trained for classification. The Kaggle Notebooks used are included in `classification/` directory. The trained model can be found [here](https://drive.google.com/drive/folders/1zEMr_7HVztm6WRKZXNdqH0mqvc9c8otY?usp=sharing).
+ResNet and Swin Transformer were trained for classification. The Kaggle Notebooks used are included in `classification/` directory. 
+
+## Trained models
+The trained models for layer segmentation and classification can be found via the links in the table below.
+
+| Segmentation       | Classification |
+|--------------------|----------------|
+| [without_noise](https://drive.google.com/drive/folders/1bTbhaxbTjpxL4eNqFJCBGx1AfcHdCFI4?usp=sharing)      | [ResNet-34](https://drive.google.com/drive/folders/1IYn0Q4z-EYv8h6o3_FpDmtbG7WtRj6H4?usp=sharing)      |
+| [speckle_10p_m0v0.5](https://drive.google.com/drive/folders/1CQjfBFxTWKLO7grzdc0oPfQ2QwUclr0J?usp=sharing) | [Swin-T](https://drive.google.com/drive/folders/1yEDsw4hHVlXlSVYLhV6GsGdS4fXnIMJS?usp=sharing)         |
+| [speckle_10p_m0v1](https://drive.google.com/drive/folders/1jCqCHZ91DKkgxz0_AMNnE6dbRLIYB4qK?usp=sharing)   |                |
 
 
