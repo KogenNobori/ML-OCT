@@ -1,0 +1,26 @@
+# packages in environment at /opt/miniconda3/envs/oct5kenv:
+#
+# Name                Version    License
+build                 0.9.0
+ca-certificates       2025.7.15  MPL-2.0
+certifi               2021.5.30  MPL-2.0
+importlib-metadata    4.8.3
+libcxx                19.1.7     Apache-2.0 WITH LLVM-exception
+libffi                3.3        Custom
+ncurses               6.5        MIT AND X11
+openssl               1.1.1w     OpenSSL
+packaging             21.3
+pep517                0.13.1
+pip                   21.2.2     MIT
+pyparsing             3.1.4
+python                3.6.13     PSF
+readline              8.3        GPL-3.0-only
+setuptools            58.0.4     MIT
+sqlite                3.50.2     blessing
+tk                    8.6.15     TCL
+tomli                 1.2.3
+typing-extensions     4.1.1
+wheel                 0.37.1     MIT
+xz                    5.6.4      LGPL-2.1-or-later and GPL-2.0-or-later and 0BSD
+zipp                  3.6.0
+zlib                  1.2.13     Zlib
