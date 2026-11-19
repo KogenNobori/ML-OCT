@@ -1,7 +1,0 @@
-name: dataprepenv
-channels:
-  - defaults
-dependencies:
-  - pip
-prefix: /home/kn445/.conda/envs/dataprepenv
-
