@@ -1,10 +1,10 @@
 # Building deep learning based layer segmentation and pathology classification models in retinal OCT images
 ![thumbnail](images/github_thumbnail_v2.png)
 
-This repository shares code and data used in the project. For detailed information, please check the technical report. *The repository is still under development, and further information will be added.
+This repository shares code and data used in the project. For detailed information, please check the technical report. *The repository is still under development, and further information will be added. Please refer to the LICENSE file for the policies about contents in this repository as well as those linked in this README.md.
 
 ### Todo:
-Consideration of the license, consideration of the OCT5k scripts used
+Consideration of the OCT5k scripts used
 
 # Datasets
 Datasets used in this project can be found [here on Google Drive](https://drive.google.com/drive/folders/1BEMyyOkUQyTVCfcUH5FH_XqIwuxkk25_?usp=sharing). 
